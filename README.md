@@ -137,6 +137,19 @@ Each cluster mapped to different investment profiles:
 - **Scale advisory services** with AI-driven stock segmentation  
 
 ---
+## Acknowledgments
+
+This project was completed as part of the Unsupervised Learning course offered by Great Learning in collaboration with The University of Texas at Austin.
+
+I would like to sincerely thank:
+
+- **Great Learning** for providing the course content, guidance, and mentorship.
+- **The University of Texas at Austin** for designing the curriculum and making real-world datasets and case studies available.
+- The instructors and mentors whose insights helped shape my understanding of unsupervised learning techniques in financial data science.
+
+> 📌 The dataset used in this project was provided exclusively as part of the course and is not publicly available.
+
+--- 
 
 ## ✍️ Author
 - **[Kifayat Sayed]**  
